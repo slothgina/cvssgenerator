@@ -12,3 +12,4 @@ C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\refint\cvssgenerator.dll
 C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\cvssgenerator.pdb
 C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\cvssgenerator.genruntimeconfig.cache
 C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\ref\cvssgenerator.dll
+C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\cvssgenerator.sourcelink.json
