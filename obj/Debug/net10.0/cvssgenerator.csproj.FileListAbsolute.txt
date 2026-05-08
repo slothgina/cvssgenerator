@@ -1,0 +1,14 @@
+C:\Users\ginag\cvssgenerator\bin\Debug\net10.0\cvssgenerator.exe
+C:\Users\ginag\cvssgenerator\bin\Debug\net10.0\cvssgenerator.deps.json
+C:\Users\ginag\cvssgenerator\bin\Debug\net10.0\cvssgenerator.runtimeconfig.json
+C:\Users\ginag\cvssgenerator\bin\Debug\net10.0\cvssgenerator.dll
+C:\Users\ginag\cvssgenerator\bin\Debug\net10.0\cvssgenerator.pdb
+C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\cvssgenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\cvssgenerator.AssemblyInfoInputs.cache
+C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\cvssgenerator.AssemblyInfo.cs
+C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\cvssgenerator.csproj.CoreCompileInputs.cache
+C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\cvssgenerator.dll
+C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\refint\cvssgenerator.dll
+C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\cvssgenerator.pdb
+C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\cvssgenerator.genruntimeconfig.cache
+C:\Users\ginag\cvssgenerator\obj\Debug\net10.0\ref\cvssgenerator.dll
